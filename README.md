@@ -8,17 +8,9 @@
 
 - 🌱 I’m currently learning **NodeJS, Java SpringBoot..**
 
-- 👯 I’m looking to collaborate on **Different Projects**
-
-- 🤝 I’m looking for remote **Jobs**
-
 - 👨‍💻 My UI Designs [https://www.figma.com/proto/c8TB4NFW0JgSQDg7mKscIO/Nuha-Portfolio?node-id=12-676&mode=design](https://www.figma.com/proto/c8TB4NFW0JgSQDg7mKscIO/Nuha-Portfolio?node-id=12-676&mode=design)
 
 - 📝 Connect with me on Linkedin [https://www.linkedin.com/in/maksura24/](https://www.linkedin.com/in/maksura24/)
-
-- 📫 How to reach me **nuharabbani98879@gmail.com**
-
-- ⚡ Fun fact **I know Nothing....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
