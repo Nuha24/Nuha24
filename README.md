@@ -1,17 +1,13 @@
-<h1 align="left">Hello 👋,</h1>
+<h1 align="left">Hello,</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA7A1&width=444&height=54&lines=I'm Maksura+Nuha..." alt="Typing SVG" /></a>
-<h3 align="left">A CS Student ...</h3>
+<h3 align="left"> ...</h3>
 
-- 🔭 I’m a **Competitive Programmer**
+- Currently learning **NodeJS, Java SpringBoot..**
 
-- 🌱 I’m currently learning **NodeJS, Java SpringBoot..**
+- I’m looking to collaborate on **Different Projects**
 
-- 👯 I’m looking to collaborate on **Different Projects**
-
-- 👨‍💻 My UI Designs [https://www.figma.com/proto/c8TB4NFW0JgSQDg7mKscIO/Nuha-Portfolio?node-id=12-676&mode=design](https://www.figma.com/proto/c8TB4NFW0JgSQDg7mKscIO/Nuha-Portfolio?node-id=12-676&mode=design)
-
-- 📝 Connect with me on Linkedin [https://www.linkedin.com/in/maksura24/](https://www.linkedin.com/in/maksura24/)
+- Linkedin - [https://www.linkedin.com/in/maksura24/](https://www.linkedin.com/in/maksura24/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
