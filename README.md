@@ -9,6 +9,4 @@
 
 📫 How to reach me:
 - LinkedIn: [linkedin.com/in/maksura24](https://www.linkedin.com/in/maksura24/)  
-- GitHub: [github.com/Nuha24](https://github.com/Nuha24)  
 - ResearchGate: [researchgate.net/profile/Maksura-Nuha](https://www.researchgate.net/profile/Maksura-Nuha/research)  
-- Google Scholar: [scholar.google.com/citations?user=0Tera9kAAAAJ&hl=en](https://scholar.google.com/citations?user=0Tera9kAAAAJ&hl=en)
